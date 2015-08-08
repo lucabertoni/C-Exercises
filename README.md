@@ -4,7 +4,7 @@ All comments are in Italian, so this could be helpful for Italian guys.
 
 ## Exercises source  
 Most of these exercises are from book like:  
-"Algoritmi in C++ - Christopher J. Van Wyk"  
+["Algoritmi in C++ - Christopher J. Van Wyk"][https://books.google.it/books?id=VOgvjHoMgj4C&dq=Algoritmi+in+C%2B%2B+-+Christopher+J.+Van+Wyk&hl=it&source=gbs_navlinks_s]  
 and "Linguaggio Brian W. Kernighan Dennis M. Ritchie".
 
 ## Info/Contacts:  
