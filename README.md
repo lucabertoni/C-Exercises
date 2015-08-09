@@ -1,6 +1,7 @@
 # C-Exercises
 This repository contains some exercises and alghorithms coded in C language.  
-All comments are in Italian, so this could be helpful for Italian guys.
+All comments are in Italian, so this could be helpful for Italian guys.  
+All exercises have a short description.
 
 ## Exercises source  
 Most of these exercises are from book like:  
