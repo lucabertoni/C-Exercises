@@ -42,7 +42,7 @@ int getLine(char sLine[],int nLimite){
 	int cCarattere,i;
 
 	/* Ciclo fino a quando le condizioni sono vere (vedi sopra)*/
-	for(i = 0; i < nLimite-1 && (cCarattere = getchar()) != EOF && (cCarattere = getchar()) != '\n'; i++){
+	for(i = 0; i < nLimite-1 && (cCarattere = getchar()) != EOF && cCarattere != '\n'; i++){
 		sLine[i] = cCarattere;	/* Inserisco il carattere alla fine della stringa */
 		++nLen;	/* Incremento il valore di lugnhezza della stringa */
 	}
